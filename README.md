@@ -1,4 +1,4 @@
-# Simple Node.js Server
+# Simple Node.js Server Template
 ## Lauren Darrimon
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=appveyor)](https://opensource.org/licenses/MIT) ![Language Badges](https://img.shields.io/github/languages/top/laurenDarrimon/simple-server?style=for-the-badge&logo=appveyor) ![Commits Badge](https://img.shields.io/github/last-commit/laurenDarrimon/simple-server?style=for-the-badge&logo=appveyor) ![Repo Size](https://img.shields.io/github/repo-size/laurenDarrimon/simple-server?style=for-the-badge&logo=appveyor) ![Repo Issues](https://img.shields.io/github/issues/laurenDarrimon/simple-server?style=for-the-badge&logo=appveyor)
     
@@ -13,8 +13,6 @@ Link to application [Simple Node.js Server](https://cs5513-week01-40-laurenduker
 ### Contributing 
 ✍️ 
 Lauren Darrimon is the author of this application. Find additional work on Lauren Darrimon's [Github profile.](http://github.com/laurenDarrimon).
-
-Follow these guildines for contributing to this project: 
 
 ### Questions
 ❓💌
